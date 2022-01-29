@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hi 👋, I'm Mueem Nahid </h1>
 <p>
-  I have graduated from <a href="https://www.ewubd.edu/">East West University, Bangladesh</a>. Currently I am working as a software engineers intern at <a href="https://www.w3schools.com"> W3 Engineers, Bangladesh</a>.
+  I have graduated from <a href="https://www.ewubd.edu/">East West University, Bangladesh</a>. Currently I am working as a software engineers intern at <a href="https://w3engineers.com/"> W3 Engineers, Bangladesh</a>.
 </p>
 
 ## _Connect with me:_ 😄
