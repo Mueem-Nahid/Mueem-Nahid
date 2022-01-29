@@ -1,21 +1,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mueem-Nahid&label=Profile%20views&color=0e75b6&style=social" alt="Mueem-Nahid" /> 
 </p>
 
-<!-- <h1 align="center"> Hi 👋, I'm Md. Salman Hossan Prottoy </h1>
+<h1 align="center"> Hi 👋, I'm Mueem Nahid </h1>
 <p>
-  I am a final year undergraduate student in Computer Science and Engineering at American International University-Bangladesh. A lifelong learner, I am currently fascinated by machine learning, natural language processing, artificial intelligence, and quantum computing. I am not confined to a single branch and believe that anything new is never too complex to comprehend.
-</p> -->
+  I have graduated from <a href="https://www.ewubd.edu/">East West University, Bangladesh</a>. Currently I am working as a software engineers intern at <a href="https://www.w3schools.com"> W3 Engineers, Bangladesh</a>.
+</p>
 
 ## _Connect with me:_ 😄
 
-<!-- <p align="center">
-<a href="https://twitter.com/salman_prottoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salman_prottoy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/salman-prottoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman-prottoy" height="30" width="40" /></a>
-<a href="https://fb.com/salman.prottoy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salman.prottoy1" height="30" width="40" /></a>
-<a href="https://instagram.com/salman_prottoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salman_prottoy" height="30" width="40" /></a>
-<a href="https://medium.com/@salman-prottoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@salman-prottoy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9850634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9850634" height="30" width="40" /></a>
-</p> -->
+<p align="center">
+<a href="https://www.linkedin.com/in/mueem-nahid-a5258b15b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman-prottoy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mueem.nahid.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salman.prottoy1" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16845806/mueem-nahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9850634" height="30" width="40" /></a>
+</p>
 
 ## _Languages and Tools:_ ⚡
 
