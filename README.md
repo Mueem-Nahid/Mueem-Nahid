@@ -38,5 +38,7 @@
 ## _Waka Time Stats:_ ⚡
     
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mueem_nahid&layout=compact" alt="mueem_nahid" /></p>
+   
+## _DevCard:_ ⚡   
     
 <a href="https://app.daily.dev/MuEEm"><img src="https://api.daily.dev/devcards/99c3841bffa4473b9c9edc4355f5be79.png?r=ptx" width="400" alt="Mueem Nahid's Dev Card"/></a>
