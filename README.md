@@ -1,11 +1,13 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mueem-Nahid&label=Profile%20views&color=0e75b6&style=social" alt="Mueem-Nahid" /> 
+<p align="center">
+   <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4733z8dnc9hs39t80q8p5lvbt892qkbnkjjj917war&rid=giphy.gif&ct=g" width="230">
 </p>
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Mueem-Nahid&label=Profile%20views&color=0e75b6&style=social" alt="Mueem-Nahid" /> 
+</p>
 <h1 align="center"> Hi 👋, I'm Mueem Nahid </h1>
 <p>
   I have graduated from <a href="https://www.ewubd.edu/">East West University, Bangladesh</a>. I have completed 6 months internship at <a href="https://w3engineers.com/"> W3 Engineers, Bangladesh</a>. Currently I am working as a junior software engineer at <a href="https://w3engineers.com/"> W3 Engineers, Bangladesh</a>.
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  <img align='right' src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4733z8dnc9hs39t80q8p5lvbt892qkbnkjjj917war&rid=giphy.gif&ct=g" width="230">
 </p>
 
 ## _Connect with me:_ 😄
