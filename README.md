@@ -33,7 +33,7 @@
 
 ## _Github Stats:_ ⚡
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.salmanprottoy.vercel.app/api?username=Mueem-Nahid&show_icons=true&locale=en" alt="Mueem-Nahid" /></p>
+[![Mueem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mueem-Nahid)](https://github.com/Mueem-Nahid/github-readme-stats)
 
 ## _Waka Time Stats:_ ⚡
     
