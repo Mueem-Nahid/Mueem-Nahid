@@ -5,7 +5,7 @@
 <p>
   I have graduated from <a href="https://www.ewubd.edu/">East West University, Bangladesh</a>. I have completed 6 months internship at <a href="https://w3engineers.com/"> W3 Engineers, Bangladesh</a>. Currently I am working as a junior software engineer at <a href="https://w3engineers.com/"> W3 Engineers, Bangladesh</a>.
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  <img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4733z8dnc9hs39t80q8p5lvbt892qkbnkjjj917war&rid=giphy.gif&ct=g)" width="230">
+  <img align='right' src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4733z8dnc9hs39t80q8p5lvbt892qkbnkjjj917war&rid=giphy.gif&ct=g" width="230">
 </p>
 
 ## _Connect with me:_ 😄
