@@ -45,4 +45,4 @@
    
 ## _DevCard:_ ⚡   
     
-<a href="https://app.daily.dev/MuEEm"><img src="https://api.daily.dev/devcards/99c3841bffa4473b9c9edc4355f5be79.png?r=ptx" width="400" alt="Mueem Nahid's Dev Card"/></a>
+<a href="https://app.daily.dev/MuEEm"><img src="https://api.daily.dev/devcards/99c3841bffa4473b9c9edc4355f5be79.png?r=ptx" width="300" alt="Mueem Nahid's Dev Card"/></a>
