@@ -5,10 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=Mueem-Nahid&label=Profile%20views&color=0e75b6&style=social" alt="Mueem-Nahid" /> 
 </p>
 <h1 align="center"> Hi 👋, I'm Mueem Nahid </h1>
-<p>
-  I have graduated from <a href="https://www.ewubd.edu/">East West University, Bangladesh</a>. I have completed 6 months internship at <a href="https://w3engineers.com/"> W3 Engineers, Bangladesh</a>. Currently I am working as a junior software engineer at <a href="https://w3engineers.com/"> W3 Engineers, Bangladesh</a>.
+<div>
+   <span>Mueem Nahid,</span>
+   <span>Software Engineer | JavaScript | TypeScript | React.js | Next.js | Node.js | Express |  | MongoDB | PostgreSQL | Python | Django</span>
+   <p>
+      As a seasoned Software Engineer with over 2.5 years of professional experience, I am passionate about developing robust and scalable web applications. Currently working at Brand Cloud Inc in Tokyo, Japan (remote), I continue to hone my skills in a variety of technologies including JavaScript, TypeScript, React.js, Next.js, Node.js, Express, MongoDB, PostgreSQL, Python, and Django. During my previous tenure at W3 Engineers Ltd, I have contributed to the successful delivery of several projects, working closely with cross-functional teams to develop innovative solutions. I have gained valuable experience in full-stack development, collaborating with designers, product managers, and QA engineers to ensure the seamless implementation of features and functionalities. My proficiency in React has allowed me to build dynamic and responsive user interfaces, while my expertise in Node.js and Express has empowered me to develop efficient server-side applications. I have also worked extensively with Next.js, leveraging its capabilities to create high-performance, server-rendered applications. In addition to my front-end skills, I possess a strong foundation in back-end development. I am proficient in working with MongoDB and PostgreSQL databases to design and implement data models, optimize queries, and ensure data integrity. Furthermore, I have experience with TypeScript, enabling me to write type-safe code and enhance code quality. My proficiency in Python and Django has enabled me to contribute to the development of scalable and maintainable web applications. I have leveraged Django's powerful features to build robust backends and implement complex business logic. I stay updated with the latest industry trends and technologies, actively seeking opportunities to enhance my skill set. I am excited about the opportunity to contribute my skills and experience to a dynamic and collaborative team, where I can continue to learn and grow as a software engineer. Let's connect and explore potential opportunities!
+   </p>
+
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</p>
+</div>
 
 ## _Connect with me:_ 😄
 
