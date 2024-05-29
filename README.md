@@ -66,7 +66,7 @@
 
 ## _Github Stats:_ ⚡
 
-![Mueem's GitHub stats](https://mueem-nahid-github-readme-stats.vercel.app)
+![Mueem's GitHub stats](https://mueem-nahid-github-readme-stats.vercel.app/api?username=Mueem-Nahid)
 
 ## _Waka Time Stats:_ ⚡
     
