@@ -68,6 +68,9 @@
 
 ![Mueem's GitHub stats](https://mueem-nahid-github-readme-stats.vercel.app/api?username=Mueem-Nahid)
 
+## _Recent Activity:_ ⚡
+<!--START_SECTION:activity-->
+
 ## _Waka Time Stats:_ ⚡
     
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mueem_nahid&layout=compact" alt="mueem_nahid" /></p>
