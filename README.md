@@ -68,6 +68,10 @@
 
 ![Mueem's GitHub stats](https://mueem-nahid-github-readme-stats.vercel.app/api?username=Mueem-Nahid)
 
+## _Leetcode:_ ⚡
+
+![LeetCode Stats](https://leetcode.card.workers.dev/MuEEm?font=baloo&extension=null)
+
 ## _Recent Activity:_ ⚡
 <!--START_SECTION:activity-->
 
