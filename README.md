@@ -66,7 +66,7 @@
 
 ## _Github Stats:_ ⚡
 
-![Mueem's GitHub stats](https://mueem-nahid-github-readme-stats.vercel.app/api?username=Mueem-Nahid)
+![Mueem's GitHub stats](https://mueem-nahid-github-readme-stats.vercel.app/api?username=Mueem-Nahid&show_icons=true&count_private=true&locale=en)
 
 ## _Leetcode:_ ⚡
 
