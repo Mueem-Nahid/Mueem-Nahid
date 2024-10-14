@@ -13,7 +13,7 @@
    </div>
    <div>
       <p>
-      As a seasoned Software Engineer with over 2.5 years of professional experience, I am passionate about developing robust and scalable web applications. Currently working at Brand Cloud Inc in Tokyo, Japan (remote), I continue to hone my skills in a variety of technologies including JavaScript, TypeScript, React.js, Next.js, Node.js, Express, MongoDB, PostgreSQL, Python, and Django. 
+      As a seasoned Software Engineer with over 3 years of professional experience, I am passionate about developing robust and scalable web applications. Currently working at Brand Cloud Inc in Tokyo, Japan (remote), I continue to hone my skills in a variety of technologies including JavaScript, TypeScript, React.js, Next.js, Node.js, Express, MongoDB, PostgreSQL, Python, and Django. 
       </p>
       <p>
          During my previous tenure at W3 Engineers Ltd, I have contributed to the successful delivery of several projects, working closely with cross-functional teams to develop innovative solutions. I have gained valuable experience in full-stack development, collaborating with designers, product managers, and QA engineers to ensure the seamless implementation of features and functionalities.
@@ -66,7 +66,7 @@
 
 ## _Github Stats:_ ⚡
 
-![Mueem's GitHub stats](https://mueem-nahid-github-readme-stats.vercel.app/api?username=Mueem-Nahid&show_icons=true&count_private=true&locale=en)
+![Mueem's GitHub stats](https://github-readme-stats.salmanprottoy.vercel.app/api?username=Mueem-Nahid&show_icons=true&count_private=true&locale=en)
 
 ## _Leetcode:_ ⚡
 
